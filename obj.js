@@ -1,4 +1,4 @@
-var data = {name:"Nirmal", Age:25, Place:"Calicut", //object
+var data = {name:"Nirmal", Age:25, Place:"Calicut", // object
             dispaly:function(){ // this is a function(Method)
                 var name = "Sonu"
                 console.log(name)
