@@ -4,13 +4,13 @@ var data = {name:"Nirmal", Age:25, Place:"Calicut", // object
                 console.log(name)
  
             }}
-data.dob="05-04-2001"
+data.dob="05-04-2001" //we can add object or property
 
 for(x in data){
     console.log(data[x])
 }
 
-data.dispaly1=function(){
+data.dispaly1=function(){ // we can add function
     console.log("Amal Sajan")
 }
 //console.log(data)
